@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Grut1/bg.git/static/css/main.89d0cd68.chunk.css",
+    "main.js": "/Grut1/bg.git/static/js/main.6837f5d1.chunk.js",
+    "main.js.map": "/Grut1/bg.git/static/js/main.6837f5d1.chunk.js.map",
+    "runtime-main.js": "/Grut1/bg.git/static/js/runtime-main.eb89c38b.js",
+    "runtime-main.js.map": "/Grut1/bg.git/static/js/runtime-main.eb89c38b.js.map",
+    "static/js/2.069e98d2.chunk.js": "/Grut1/bg.git/static/js/2.069e98d2.chunk.js",
+    "static/js/2.069e98d2.chunk.js.map": "/Grut1/bg.git/static/js/2.069e98d2.chunk.js.map",
+    "index.html": "/Grut1/bg.git/index.html",
+    "static/css/main.89d0cd68.chunk.css.map": "/Grut1/bg.git/static/css/main.89d0cd68.chunk.css.map",
+    "static/js/2.069e98d2.chunk.js.LICENSE.txt": "/Grut1/bg.git/static/js/2.069e98d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb89c38b.js",
+    "static/js/2.069e98d2.chunk.js",
+    "static/css/main.89d0cd68.chunk.css",
+    "static/js/main.6837f5d1.chunk.js"
+  ]
+}
